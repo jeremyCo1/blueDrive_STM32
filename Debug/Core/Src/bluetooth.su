@@ -1,0 +1,3 @@
+bluetooth.c:10:6:display	32	static
+bluetooth.c:20:9:string_compare	32	static
+bluetooth.c:39:6:car_command	24	static

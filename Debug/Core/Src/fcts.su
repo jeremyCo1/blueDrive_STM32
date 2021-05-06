@@ -1,0 +1,7 @@
+fcts.c:20:6:blink_LED	16	static
+fcts.c:32:6:vitesse_M	72	static
+fcts.c:47:6:servo_M	72	static
+fcts.c:74:6:sens_moteur	16	static
+fcts.c:86:6:klaxon	4	static
+fcts.c:93:6:cligno	8	static
+fcts.c:126:6:phares	8	static
